@@ -37,7 +37,7 @@ To better understand credit risk modeling using machine learning, [check out pro
 
 ![Agenda-Screenshot_023-05-01_174018.png](./doc/img/Agenda-Screenshot_023-05-01_174018.png)
 
-![credit-risk-modeling-mean-Credit-Score-Screenshot_2023-05-01_173848.png](./doc/img/credit-risk-modeling-mean-Credit-Score-Screenshot_2023-05-01_173848.png)
+![credit-risk-modeling-mean-Credit-Score-Screenshot_2023-05-01_173848.png](./doc/img/credit-risk-modeling-mean-Credit-Score-Screenshot_2023-05-01_173848-v2.png)
 
 #### Credit Risk Modeling - Dashboard and Reports
 To see an example of the results of the data pipeline process, advanced analytics with machine learning, and business intelligence in action, [click here to view Credit risk modeling - Dashboard and reports](./doc/Credit_Risk_Modeling_dashboard.pdf). This showcases how these techniques can be used to improve credit risk mitigation and drive business success, providing valuable insights with one example below.
