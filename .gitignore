@@ -1,0 +1,13 @@
+
+### Remove directories TMP/
+**/TMP_DIR/
+**/.ipynb_checkpoints/
+**/spark-warehouse/
+_resources/
+	
+
+## Remove notebooks and .txt and tmp files
+*.txt
+TMP_README.ipynb
+*TMP_README.html*
+*.jar

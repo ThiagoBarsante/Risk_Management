@@ -1,0 +1,108 @@
+Feature_name,Coefficients_raw,Coefficients,Original_feature_name,Score_Calculation
+Intercept,2.323288979539548,2.323,Intercept,573.0780430984274
+addr_state.AK,0.0,0.0,addr_state,0.0
+addr_state.AL,-0.13134012160795866,-0.131,addr_state,-20.98136284216657
+addr_state.AR,-0.16600781748922389,-0.166,addr_state,-26.58707047175306
+addr_state.AZ,0.0,0.0,addr_state,0.0
+addr_state.CA,0.0,0.0,addr_state,0.0
+addr_state.CO,0.30785111263285936,0.308,addr_state,49.330227140361096
+addr_state.CT,0.08316440483549056,0.083,addr_state,13.29353523587653
+addr_state.DC,0.0,0.0,addr_state,0.0
+addr_state.DE,0.0,0.0,addr_state,0.0
+addr_state.FL,-0.04092235864926497,-0.041,addr_state,-6.566686080372743
+addr_state.GA,0.09765364525293196,0.098,addr_state,15.695981362842165
+addr_state.HI,0.0,0.0,addr_state,0.0
+addr_state.ID,0.0,0.0,addr_state,0.0
+addr_state.IL,0.07111388446448945,0.071,addr_state,11.371578334304017
+addr_state.IN,0.0,0.0,addr_state,0.0
+addr_state.KS,0.09966702761631743,0.1,addr_state,16.016307513104252
+addr_state.KY,0.0,0.0,addr_state,0.0
+addr_state.LA,-0.21850617564491503,-0.219,addr_state,-35.07571345369831
+addr_state.MA,0.0,0.0,addr_state,0.0
+addr_state.MD,-0.06739195499570934,-0.067,addr_state,-10.730926033779848
+addr_state.ME,0.0,0.0,addr_state,0.0
+addr_state.MI,0.0,0.0,addr_state,0.0
+addr_state.MN,0.0,0.0,addr_state,0.0
+addr_state.MO,0.0,0.0,addr_state,0.0
+addr_state.MS,-0.1365186479306881,-0.137,addr_state,-21.942341292952825
+addr_state.MT,0.0,0.0,addr_state,0.0
+addr_state.NC,0.0,0.0,addr_state,0.0
+addr_state.ND,0.0,0.0,addr_state,0.0
+addr_state.NE,0.0,0.0,addr_state,0.0
+addr_state.NH,0.1656247000287696,0.166,addr_state,26.58707047175306
+addr_state.NJ,-0.0911782107442998,-0.091,addr_state,-14.574839836924868
+addr_state.NM,0.0,0.0,addr_state,0.0
+addr_state.NV,-0.006372396647354783,-0.006,addr_state,-0.9609784507862551
+addr_state.NY,-0.09727164267166265,-0.097,addr_state,-15.535818287711123
+addr_state.OH,-0.03118983121324964,-0.031,addr_state,-4.965055329062318
+addr_state.OK,-0.16225765194472958,-0.162,addr_state,-25.94641817122889
+addr_state.OR,0.4146477277944676,0.415,addr_state,66.46767617938264
+addr_state.PA,-0.007371200677123282,-0.007,addr_state,-1.1211415259172977
+addr_state.RI,0.0,0.0,addr_state,0.0
+addr_state.SC,0.20291127162432732,0.203,addr_state,32.51310425160163
+addr_state.SD,0.0,0.0,addr_state,0.0
+addr_state.TN,0.0,0.0,addr_state,0.0
+addr_state.TX,0.0,0.0,addr_state,0.0
+addr_state.UT,0.12376454557702965,0.124,addr_state,19.860221316249273
+addr_state.VA,0.0,0.0,addr_state,0.0
+addr_state.VT,0.0,0.0,addr_state,0.0
+addr_state.WA,0.3224344873010528,0.322,addr_state,51.572510192195686
+addr_state.WI,0.08657710326175277,0.087,addr_state,13.934187536400696
+addr_state.WV,0.0,0.0,addr_state,0.0
+addr_state.WY,0.0,0.0,addr_state,0.0
+purpose.car,0.06388482190839795,0.064,purpose,10.250436808386722
+purpose.credit_card,0.0,0.0,purpose,0.0
+purpose.debt_consolidation,0.0023729065521821066,0.002,purpose,0.32032615026208505
+purpose.educational,0.0,0.0,purpose,0.0
+purpose.home_improvement,-0.025101844868877725,-0.025,purpose,-4.004076878276063
+purpose.house,0.0,0.0,purpose,0.0
+purpose.major_purchase,0.0,0.0,purpose,0.0
+purpose.medical,0.0,0.0,purpose,0.0
+purpose.moving,0.0,0.0,purpose,0.0
+purpose.other,0.02866139664020414,0.029,purpose,4.644729178800233
+purpose.renewable_energy,0.0,0.0,purpose,0.0
+purpose.small_business,-0.20969592562046369,-0.21,purpose,-33.63424577751893
+purpose.vacation,0.0,0.0,purpose,0.0
+purpose.wedding,0.0,0.0,purpose,0.0
+emp_length.1 year,-0.01374931837045456,-0.014,emp_length,-2.2422830518345953
+emp_length.10+ years,0.0400492156752135,0.04,emp_length,6.4065230052417
+emp_length.2 years,0.0,0.0,emp_length,0.0
+emp_length.3 years,0.0,0.0,emp_length,0.0
+emp_length.4 years,0.0,0.0,emp_length,0.0
+emp_length.5 years,0.0,0.0,emp_length,0.0
+emp_length.6 years,0.01994780520127811,0.02,emp_length,3.20326150262085
+emp_length.7 years,0.0,0.0,emp_length,0.0
+emp_length.8 years,0.0,0.0,emp_length,0.0
+emp_length.9 years,0.0,0.0,emp_length,0.0
+emp_length.< 1 year,-0.002682256467699151,-0.003,emp_length,-0.48048922539312755
+emp_length.n/a,-0.4327461077721617,-0.433,emp_length,-69.35061153174141
+grade.A,0.7040905241240845,0.704,grade,112.75480489225393
+grade.B,0.18100413000079565,0.181,grade,28.989516598718694
+grade.C,-0.06573666460307961,-0.066,grade,-10.570762958648807
+grade.D,-0.1350922540645388,-0.135,grade,-21.62201514269074
+grade.E,-0.08852538529077723,-0.089,grade,-14.254513686662783
+grade.F,0.0,0.0,grade,0.0
+grade.G,0.08523246659437064,0.085,grade,13.613861386138613
+home_ownership.ANY,0.0,0.0,home_ownership,0.0
+home_ownership.MORTGAGE,0.1919628691867145,0.192,home_ownership,30.751310425160163
+home_ownership.NONE,0.0,0.0,home_ownership,0.0
+home_ownership.OWN,0.0,0.0,home_ownership,0.0
+home_ownership.RENT,-0.21501187075260075,-0.215,home_ownership,-34.43506115317414
+verification_status.Not Verified,0.15764123917343295,0.158,verification_status,25.305765870704718
+verification_status.Source Verified,0.0,0.0,verification_status,0.0
+verification_status.Verified,-0.021532890390453113,-0.022,verification_status,-3.5235876528829353
+term.36 months,0.3527412259034609,0.353,term,56.537565521257996
+term.60 months,-0.2583326122854368,-0.258,term,-41.32207338380897
+initial_list_status.f,0.008224203540653147,0.008,initial_list_status,1.2813046010483402
+initial_list_status.w,-0.008491958932826116,-0.008,initial_list_status,-1.2813046010483402
+acc_now_delinq,0.014927280713934177,0.015,acc_now_delinq,2.4024461269656374
+annual_inc,1.3832576818571574e-06,0.0,annual_inc,0.0
+delinq_2yrs,-0.050038429894748895,-0.05,delinq_2yrs,-8.008153756552126
+dti,-0.01123652884326828,-0.011,dti,-1.7617938264414676
+earliest_cr_line_DT,-1.0881940771994348e-13,-0.0,earliest_cr_line_DT,-0.0
+funded_amnt,6.682218014988765e-06,0.0,funded_amnt,0.0
+inq_last_6mths,-0.09158054860253333,-0.092,inq_last_6mths,-14.735002912055911
+installment,-0.0007067665577360512,-0.001,installment,-0.16016307513104253
+int_rate,-0.06528066956680405,-0.065,int_rate,-10.410599883517763
+loan_amnt,6.682218014990184e-06,0.0,loan_amnt,0.0
+mths_since_last_record,-0.0013846564910180155,-0.001,mths_since_last_record,-0.16016307513104253
