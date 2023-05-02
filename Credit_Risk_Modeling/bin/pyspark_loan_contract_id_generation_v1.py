@@ -215,7 +215,7 @@ parquet_file = input_location
 
 print ('Parquet file generated with Spark - ' , fnc_filename_timestap(parquet_file))
 
-## default Spark appName - se preferir
+## default Spark appName - Spark3-app local execution
 spark = SparkSession.builder.appName('Spark3-ML-quick-app').master('local[*]').getOrCreate()
 sc = spark.sparkContext
 # spark
