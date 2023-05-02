@@ -1,6 +1,7 @@
 """
-This module uses Spark to automate the process of reading raw data and generating a fraction
-of it (suppose 1%) in the format of a Parquet file with loan contract_id info.
+This PySpark script automate the process of reading raw data and generating a fraction of it 
+(suppose 1%) in the format of a Parquet file and append one feature (contract_id) to it with
+unique values.
 
 The purpose of this program is to provide real data to simulate the entire execution of the
 Credit risk modeling data pipeline.
@@ -51,7 +52,7 @@ def fnc_validate_parameters(aws_emr_serverless_execution=EMR_SERVERLESS_EXECUTIO
 
     """
     if (len(sys.argv) != 3) and aws_emr_serverless_execution:
-        print("Usage: spark-etl ['input folder'] ['output folder'] ['rpt_folder']")
+        print("Usage: spark-etl ['input folder'] ['output folder'] ")
         sys.exit(-1)
 
     if not aws_emr_serverless_execution: ## EMR Cluster or local execution
