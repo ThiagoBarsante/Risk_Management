@@ -25,11 +25,11 @@ There are several types of risk management that can be applied in different cont
 
 In summary, risk management involves the identification, evaluation, and control of risks that may affect a company or organization. Each type of risk management may require different strategies and tools to be effective.
 
-Regarding <b> financial risk management </b>, you can find more details about credit risk in [Credit Risk Modeling section](./Credit_Risk_Modeling/). Understanding credit risk and all processess involved can help you better manage financial risk and make informed decisions regarding credit. Follow the link to learn more about financial risk management with credit risk.
-
 * * *
 ### Overview - Risk Management framework
 
 Risk management is an ongoing process, and organizations must continually monitor and reassess the risks they face. They must also review and update their risk management plans as circumstances change and new risks emerge.
 
 ![Risk-Management-Screenshot 2023-04-14 194041.png](./doc/img/Risk-Management-Framework-cb1c7de4721c4f02b5ee64c2bc5088ad.png)
+
+Regarding <b> financial risk management </b>, you can find more details about credit risk in [Credit Risk Modeling section](./Credit_Risk_Modeling/). Understanding credit risk and all processess involved can help you better manage financial risk and make informed decisions regarding credit. Follow the link to learn more about financial risk management with credit risk.
